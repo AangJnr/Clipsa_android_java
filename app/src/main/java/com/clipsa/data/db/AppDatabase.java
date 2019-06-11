@@ -20,9 +20,6 @@ import javax.inject.Singleton;
 @TypeConverters({DateTypeConverter.class})
 public abstract class AppDatabase extends RoomDatabase {
 
-    //Added poultry vaccinations and vaccine calendars
-
-
 
 
 

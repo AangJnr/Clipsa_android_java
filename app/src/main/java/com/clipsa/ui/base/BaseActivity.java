@@ -1,6 +1,6 @@
 package com.clipsa.ui.base;
 
- import android.annotation.TargetApi;
+import android.annotation.TargetApi;
 import android.app.ProgressDialog;
 import android.content.ComponentName;
 import android.content.Context;
